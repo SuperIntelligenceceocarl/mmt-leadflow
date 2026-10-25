@@ -39,8 +39,8 @@ export default function Home() {
       '.offers-grid,.steps-grid{grid-template-columns:1fr!important}' +
       '} ' +
       '.card-btn:hover{background:#d4af37!important;color:#0a0a0a!important}' +
-      '.hero-btn-sec:hover{background:#d4af37!important;color:#0a0a0a!important}' +
-    '),
+      '.hero-btn-sec:hover{background:#d4af37!important;color:#0a0a0a!important}'
+    ')
 
     h('header', { style: S.hdr },
       h('a', { href: '#offers', style: S.brand }, 'MMT / MILLIONAIRE MINDSETTERS TECHNOLOGY')
