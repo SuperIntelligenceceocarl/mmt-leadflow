@@ -40,7 +40,6 @@ export default function Home() {
       '} ' +
       '.card-btn:hover{background:#d4af37!important;color:#0a0a0a!important}' +
       '.hero-btn-sec:hover{background:#d4af37!important;color:#0a0a0a!important}'
-    ')
 
     h('header', { style: S.hdr },
       h('a', { href: '#offers', style: S.brand }, 'MMT / MILLIONAIRE MINDSETTERS TECHNOLOGY')
